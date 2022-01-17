@@ -1,5 +1,5 @@
 ### Welcome to my Github page! 👋
-I'm Stefano, student at the University of Amsterdam. Currently there are not a lot of repositories to see here... However, I have my own webpage! visit it <a href="www.stefanoj.me">here</a>!
+I'm Stefano, student at the University of Amsterdam. Currently there are not a lot of repositories to see here... However, I have my own webpage! visit it <a href="https://www.stefanoj.me">here</a>!
 
 <!--
 **StefanoJon/StefanoJon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
